@@ -1,0 +1,24 @@
+{
+  "name": "slackclone",
+  "version": "1.0.0",
+  "description": "Slack Clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beiyinge/slackclone.git"
+  },
+  "author": "Beiying Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beiyinge/slackclone/issues"
+  },
+  "homepage": "https://github.com/beiyinge/slackclone#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mocha": "^3.0.2",
+    "sqlite3": "^3.1.4"
+  }
+}
